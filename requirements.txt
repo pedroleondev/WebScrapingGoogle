@@ -1,0 +1,7 @@
+streamlit==1.42.0
+pandas==2.2.3
+selenium==4.28.1
+webdriver-manager==4.0.2
+undetected-chromedriver==3.5.5
+beautifulsoup4==4.13.3
+requests==2.32.3
